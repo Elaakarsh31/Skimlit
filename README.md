@@ -43,5 +43,11 @@ Skimlit/
 ---
 
 ## 🛠 Architecture
-- Below is the Architecture  of the Tri-embedding model
+ Below is the Architecture  of the Tri-embedding model
+ 
 ![image](https://github.com/user-attachments/assets/372fde97-fae1-4796-946d-06171f0f8d99)
+
+## 📊 Results
+Graphs showing results of different architectures
+
+![image](https://github.com/user-attachments/assets/ba6d5deb-bb7c-4edf-b978-f495fe04c836)
