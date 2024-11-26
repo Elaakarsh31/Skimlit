@@ -34,7 +34,7 @@ Skimlit/
 │   ├── data_preprocessing.py  # Functions for data cleaning and preparation
 │   ├── metrics.py  # Evaluation metrics implementation
 ├── README.md  # Project documentation
-
+```
 ---
 
 ## 🛠 Architecture
