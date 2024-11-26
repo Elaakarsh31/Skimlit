@@ -6,6 +6,10 @@ Skimlit is a project designed to automate the process of summarizing medical abs
 
 This project leverages the PubMed RCT dataset to train and evaluate a state-of-the-art deep learning model for extractive text summarization. It is particularly useful for researchers, healthcare professionals, and medical students navigating vast amounts of scientific data.
 
+**Motive**
+![image](https://github.com/user-attachments/assets/b1d05e7f-b1d3-438d-84d6-903015f4885f)
+
+
 ---
 
 ## ✨ Features
