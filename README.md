@@ -34,3 +34,9 @@ Skimlit/
 │   ├── data_preprocessing.py  # Functions for data cleaning and preparation
 │   ├── metrics.py  # Evaluation metrics implementation
 ├── README.md  # Project documentation
+
+---
+
+## 🛠 Architecture
+- Below is the Architecture  of the Tri-embedding model
+![image](https://github.com/user-attachments/assets/372fde97-fae1-4796-946d-06171f0f8d99)
